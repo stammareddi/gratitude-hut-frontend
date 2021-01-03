@@ -1,0 +1,8 @@
+.deleteButton {
+  color: white;
+}
+
+.btn-danger {
+  position: relative;
+  left: 1rem;
+}

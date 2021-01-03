@@ -1,0 +1,19 @@
+.JournalEntries {
+  padding-top: 1rem;
+}
+
+.editLink {
+  color: white;
+}
+
+#tabledisplay {
+  background-color: transparent;
+}
+
+* {
+  color: white;
+}
+
+#formdisplay {
+  color: black;
+}
