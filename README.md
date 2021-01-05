@@ -1,5 +1,6 @@
 
-# Gratitude Hut Fronend
+# Gratitude Hut Frontend
+### [Gratitude Hut Backed](https://github.com/stammareddi/gratitude-hut-backend) is used to connect to backend of application 
 
 ## About 
 How wonderful does it feel to be thankful and appreciative, even for the small things we experience in everyday life.
@@ -10,16 +11,17 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 
 
-## Reuired tools to Fronend applcation 
-* Node install 
+## Required tools to host Fronend applcation 
+* Node.js
    * Can install node.js from its [offical website](https://nodejs.org/en/download/)
-* MongoDB
-    * Install from MongoDB
-* React framework 
+   * Can do 'node -v' to check installtion of Node as well as the version
 
 
 
 ## How application works 
+
+
+
 
 ## Stack Used
 MongoDb
