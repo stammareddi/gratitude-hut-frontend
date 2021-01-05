@@ -14,9 +14,10 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 In this process you will learn about node as well as getting setup with your own mongoDB connection
 
-* Node.js
-   * Can install node.js from its [offical website](https://nodejs.org/en/download/)
+* Clone down the repo and open it up in your code editor 
+* Check if Node.js is installled
    * Can do 'node -v' to check installtion of Node as well as the version
+   * If not installed vist node.js  [offical website](https://nodejs.org/en/download/) to get setup
 * Once installed 
   * run 'npm install' on the command line to download all the dependencies from the package.json file inside the directory  
 * Connecting to backend
