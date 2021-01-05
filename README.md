@@ -10,7 +10,7 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 
 
-## Required tools to host applcation 
+## Hosting applcation 
 
 In this process you will learn about node as well as getting setup with your own mongoDB connection
 
@@ -27,20 +27,7 @@ In this process you will learn about node as well as getting setup with your own
 
 
 
+
+
 ## How application works 
-
-
-
-
-## Stack Used
-MongoDb
-Express
-React
-Node
-
-
-
-
-## Hosting application
-
-My motivation behind creating this application was being able to emphaise what you have written and be able to look at them with ease.
+....
