@@ -23,7 +23,7 @@ In this process you will learn about node as well as getting setup with your own
   1. To be able to save your data you would need a connection vist [MongoDb](https://account.mongodb.com/account/login) and sign up for an account 
   2. Once signed Up click on create a project and establish a connection. [How do I do this ?](https://docs.google.com/document/d/1Z9CbmnJI7R-O6_GgIDGlIDsYpQLsg0j7tBXuxvvvf6g/edit?usp=sharing)
   3.  Once you have finished the preivous step go ahead to the [Gratitude-hut backend repo](https://github.com/stammareddi/gratitude-hut-backend) to install the backend part of the application.
-  4. Once down you can run npm start on host your frontend application
+  4. Once done you can run npm start to host your frontend application
 
 
 
