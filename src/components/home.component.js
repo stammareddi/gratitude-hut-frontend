@@ -17,6 +17,30 @@ const TableDisplay = () => {
 
   const getJournalData = async () => {
     try {
+      // const data = await axios.get("http://localhost:5000/journal");
+
+      /* const entry = {
+        title: titleLocal,
+        description: descriptionLocal,
+        date: dateLocal
+      };*/
+      //   setJournals(data.data);
+
+      /* var c = JSON.parse(localStorage.getItem("item"));
+
+      const titleVal = c[0];
+      const desVal = c[1];
+      const valueOFDate = c[2];
+
+      const entry = {
+        title: titleVal,
+        description: desVal,
+        date: valueOFDate
+      };
+      arraytodisplay = [titleVal, desVal, valueOFDate];
+      arraytodisplay.push(entry);
+      journals.push(entry);
+      console.log(journals);*/
       const data = await axios.get("http://localhost:5000/journal");
 
       setJournals(data.data);
@@ -30,7 +54,7 @@ const TableDisplay = () => {
 
   const columns = [
     { dataField: "title", text: "Title" },
-    { dataField: "date", text: "Date" }
+    { dataField: "date", text: "Date", sort: true }
   ];
 
   const rowEvents = {
@@ -73,6 +97,13 @@ const TableDisplay = () => {
     curr.date = curr.date.substring(0, 10);
   });
 
+  const defaultSorted = [
+    {
+      dataField: "date",
+      order: "desc"
+    }
+  ];
+
   return (
     <div className="JournalEntries">
       <h3>Journal Entries</h3>
@@ -83,8 +114,8 @@ const TableDisplay = () => {
         pagination={paginationFactory()}
         rowEvents={rowEvents}
         id="tabledisplay"
+        defaultSorted={defaultSorted}
       />
-
       {show ? <JournalContent /> : null}
     </div>
   );

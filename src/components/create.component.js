@@ -33,6 +33,7 @@ export default class Create extends Component {
   onSubmit(e) {
     e.preventDefault();
 
+    const indexValue = 0;
     const entry = {
       title: this.state.title,
       description: this.state.description,
@@ -41,6 +42,12 @@ export default class Create extends Component {
 
     console.log(entry);
 
+    /* let itemsArray = [];
+    itemsArray.push(this.state.title);
+    itemsArray.push(this.state.description);
+    itemsArray.push(this.state.date);
+    localStorage.setItem("item", JSON.stringify(itemsArray));
+*/
     axios
       .post("http://localhost:5000/journal/add", entry)
       .then(res => console.log("Post success"))
