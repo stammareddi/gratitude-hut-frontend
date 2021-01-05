@@ -21,10 +21,10 @@ In this process you will learn about node as well as getting setup with your own
   * run 'npm install' on the command line to download all the dependencies from the package.json file inside the directory  
 * Connecting to backend
   1. To be able to save your data you would need a connection vist [MongoDb](https://account.mongodb.com/account/login) and sign up for an account 
-  2. Once signed Up click on create a project 
-  3. ![picture alt]()
+  2. Once signed Up click on create a project and establish a connection. [How do I do this ?](https://docs.google.com/document/d/1Z9CbmnJI7R-O6_GgIDGlIDsYpQLsg0j7tBXuxvvvf6g/edit?usp=sharing)
+  3. 
 
-![alt text](/Users/stammareddi/Desktop/createproject.png)
+
 
 ## How application works 
 
