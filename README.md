@@ -22,8 +22,9 @@ In this process you will learn about node as well as getting setup with your own
 * Connecting to backend
   1. To be able to save your data you would need a connection vist [MongoDb](https://account.mongodb.com/account/login) and sign up for an account 
   2. Once signed Up click on create a project 
-  3. ![picture alt](/Users/stammareddi/Desktop/createproject.png)
+  3. ![picture alt]()
 
+![alt text](/Users/stammareddi/Desktop/createproject.png)
 
 ## How application works 
 
