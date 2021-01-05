@@ -11,8 +11,10 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 
 ## Reuired tools to host applcation 
-React framework 
-Node install 
+* MongoDB
+** Install from MongoDB
+* React framework 
+* Node install 
 
 
 ## How application works 
