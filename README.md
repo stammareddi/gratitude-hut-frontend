@@ -11,10 +11,12 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 
 ## Reuired tools to Fronend applcation 
+* Node install 
+   * Can install node.js from its [offical website] (https://nodejs.org/en/download/)
 * MongoDB
     * Install from MongoDB
 * React framework 
-* Node install 
+
 
 
 ## How application works 
