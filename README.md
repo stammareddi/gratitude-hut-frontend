@@ -6,8 +6,7 @@ How wonderful does it feel to be thankful and appreciative, even for the small t
 This is an open source project that allows you to journal your moments in life and be able to view them with ease.
 
 ## Motivation 
-I am a person who journals everday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I written them and that always bothered me. Moreoever, after adding the MERN stack under my belt I decided to test my abilities by creating this application. The main purpose of this applcation was for me to empahsie  get a better understanding of the stack as well as
-
+I am a person who journals everday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I written them and that always bothered me. This could have been due to the unneccsary work of having to go back and flip thru pages of sloppy handwriting. This was enough to get me thinking on how to solve this issue. I decided to create this web app that stores all you jorunals by title and date for better accessibility 
 
 
 ## Hosting applcation 
@@ -25,5 +24,9 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 3. Do `npm install package.json` in the terminal. This json file allows the project to install the versions of the modules it depends on.By running this command inside of your project, you can install all the dependencies that are listed in the project's package.
 4. Great your frontend of the application is all setup head over to [Gratitude-hut backend repository](https://github.com/stammareddi/gratitude-hut-backend) to establish a database connection to be able to save your data to a database
 5. Welcome back! the final step is to run `npm start` and watch the web application come to life!!!!
+
+
+
+
 
 
