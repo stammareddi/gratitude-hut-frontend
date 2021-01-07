@@ -29,7 +29,7 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 ### How application works 
 
-head over to the [demo](https://www.youtube.com/embed/tf3H4IaWOBY) to see application in action 
+head over to the [demo](https://www.youtube.com/watch?v=tf3H4IaWOBY&feature=emb_title) to see application in action 
 
 
 
