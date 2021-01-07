@@ -17,18 +17,17 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
    -  Will set up a database connection to your mongoDB. [What is mongoDB](https://www.mongodb.com/what-is-mongodb)
 
 
-1.  Clone the repo and open it up in your code editor alongside a terminal  
+1.  Clone the repo (click on the green code button at the top and download zip) and open it up in your code editor alongside a terminal  
 2. Checking if node.js is installed 
-    - Do `node -v` to check if already installed and to check version number.
-         -  If installed it will say v and version number : 'v10.16.13' 
-     -  To download node [click here](https://nodejs.org/en/download/) and repeat step 2 to see if download was successful
-        
-* Check if Node.js is installled
-   * Can do 'node -v' to check installtion of Node as well as the version
-   * If not installed vist node.js  [offical website](https://nodejs.org/en/download/) to get setup
-* Once installed 
-  * run 'npm install package.json' on the command line to download all the dependencies from the package.json file inside the directory  
-  * run 'sudo npm install bootstrap --save' to install boostrap 
+    - Do `node -v` in your terminal to check if already installed and to check version number.
+         -  If installed it will say v and version number : v10.16.13
+     -  To download node [click here](https://nodejs.org/en/download/) and run the command again to see if installed successfully 
+3. Do `npm install package.json` in the terminal. This json file allows the project to install the versions of the modules it depends on.By running this command inside of your project, you can install all the dependencies that are listed in the project's package.
+4. Great your frontend of the application is all setup head over to [Gratitude-hut backend Repository] to establish a database connection to be able to save your data to a database
+5. Welcome back! the final step is to run `npm start`
+
+
+
 * Connecting to backend
   1. To be able to save your data you would need a connection vist [MongoDb](https://account.mongodb.com/account/login) and sign up for an account 
   2. Once signed Up click on create a project and establish a connection. [How do I do this ?](https://docs.google.com/document/d/1Z9CbmnJI7R-O6_GgIDGlIDsYpQLsg0j7tBXuxvvvf6g/edit?usp=sharing)
