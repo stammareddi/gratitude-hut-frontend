@@ -6,7 +6,7 @@ How wonderful does it feel to be thankful and appreciative, even for the small t
 This is an open source project that allows you to journal your moments in life and be able to view them with ease.
 
 ## Motivation 
-I am a person who journals everday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I written them and that always bothered me. This could have been due to the unneccsary work of having to go back and flip thru pages of sloppy handwriting. This was enough to get me thinking on how to solve this issue. I decided to create this web app that stores all you jorunals by title and date for better accessibility 
+I am a person who journals everday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I written them and that always bothered me. This could have been due to the unneccsary work of having to go back and flip thru pages of sloppy handwriting. This was enough to get me thinking on how to solve this issue. I decided to create this web app that stores all your journals by title and date for better accessibility 
 
 
 ## Hosting applcation 
