@@ -12,9 +12,14 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 
 ## Hosting applcation 
 
-In this process you will learn about node as well as getting setup with your own mongoDB connection
+What will you achieve in the process of hosting this applcation ? 
 
-* Clone down the repo and open it up in your code editor 
+* Will get setup with node.js if not downloaded already. [What is node.js?](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+* Will set up a database connection to your mongoDB. [What is mongoDB](https://www.mongodb.com/what-is-mongodb)
+
+
+1.  Clone the repo and open it up in your code editor alongside a terminal  
+
 * Check if Node.js is installled
    * Can do 'node -v' to check installtion of Node as well as the version
    * If not installed vist node.js  [offical website](https://nodejs.org/en/download/) to get setup
