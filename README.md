@@ -23,7 +23,7 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
          -  If installed it will say v and version number : v10.16.13
      -  To download node [click here](https://nodejs.org/en/download/) and run the command again to see if installed successfully 
 3. Do `npm install package.json` in the terminal. This json file allows the project to install the versions of the modules it depends on.By running this command inside of your project, you can install all the dependencies that are listed in the project's package.
-4. Great your frontend of the application is all setup head over to [Gratitude-hut backend Repository] to establish a database connection to be able to save your data to a database
+4. Great your frontend of the application is all setup head over to [Gratitude-hut backend repository](https://github.com/stammareddi/gratitude-hut-backend) to establish a database connection to be able to save your data to a database
 5. Welcome back! the final step is to run `npm start`
 
 
