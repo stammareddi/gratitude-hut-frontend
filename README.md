@@ -24,19 +24,6 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
      -  To download node [click here](https://nodejs.org/en/download/) and run the command again to see if installed successfully 
 3. Do `npm install package.json` in the terminal. This json file allows the project to install the versions of the modules it depends on.By running this command inside of your project, you can install all the dependencies that are listed in the project's package.
 4. Great your frontend of the application is all setup head over to [Gratitude-hut backend repository](https://github.com/stammareddi/gratitude-hut-backend) to establish a database connection to be able to save your data to a database
-5. Welcome back! the final step is to run `npm start`
+5. Welcome back! the final step is to run `npm start` and watch the web application come to life!!!!
 
 
-
-* Connecting to backend
-  1. To be able to save your data you would need a connection vist [MongoDb](https://account.mongodb.com/account/login) and sign up for an account 
-  2. Once signed Up click on create a project and establish a connection. [How do I do this ?](https://docs.google.com/document/d/1Z9CbmnJI7R-O6_GgIDGlIDsYpQLsg0j7tBXuxvvvf6g/edit?usp=sharing)
-  3.  Once you have finished the preivous step go ahead to the [Gratitude-hut backend repo](https://github.com/stammareddi/gratitude-hut-backend) to install the backend part of the application.
-  4. Once done you can run npm start to host your frontend application
-
-
-
-
-
-## How application works 
-....
