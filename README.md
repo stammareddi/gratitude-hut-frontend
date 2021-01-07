@@ -18,12 +18,10 @@ What will you achieve in the process of hosting this applcation ?
 
 
 1.  Clone the repo and open it up in your code editor alongside a terminal  
-2. Installing node.js if not installed 
+2. Checking if node.js is installed 
  * Do 'node -v' to check if already installed and to check version number.
-     * If installed it will say something like v and version number 
-     * 
-     'v10.16.13' 
-     *
+     * If installed it will say v and version number : 'v10.16.13' 
+ * To download node [click here](https://nodejs.org/en/download/) and repeat step 2 to see if download was successful
         
 * Check if Node.js is installled
    * Can do 'node -v' to check installtion of Node as well as the version
