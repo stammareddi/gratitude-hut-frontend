@@ -13,8 +13,8 @@ I am a person who journals everday on a piece of paper and pencil.Yes I'm old fa
 ## Hosting applcation 
 
 What will you achieve in the process of hosting this applcation ? 
-   * Will get setup with node.js if not downloaded already. [What is node.js?](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-   * Will set up a database connection to your mongoDB. [What is mongoDB](https://www.mongodb.com/what-is-mongodb)
+* Will get setup with node.js if not downloaded already. [What is node.js?](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+* Will set up a database connection to your mongoDB. [What is mongoDB](https://www.mongodb.com/what-is-mongodb)
 
 
 1.  Clone the repo and open it up in your code editor alongside a terminal  
