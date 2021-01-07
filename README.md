@@ -6,12 +6,11 @@ How wonderful does it feel to be thankful and appreciative, even for the small t
 This is an open source project that allows you to journal your moments in life and be able to view them with ease.
 
 ## Motivation 
-I am a person who journals everday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I written them and that always bothered me. This could have been due to the unneccsary work of having to go back and flip thru pages of sloppy handwriting. This was enough to get me thinking on how to solve this issue. I decided to create this web app that stores all your journals by title and date for better accessibility 
+I am a person who journals everyday on a piece of paper and pencil.Yes I'm old fashioned However, I found myself not viewing my old entries once I wrote them and that always bothered me. This could have been due to the unnecessary work of having to go back and flip thru pages of sloppy handwriting. This was enough to get me thinking on how to solve this issue. I decided to create this web app that stores all your journals by title and date for better accessibility
 
+## Hosting application
 
-## Hosting applcation 
-
-* What will you achieve in the process of hosting this applcation ? 
+* What will you achieve in the process of hosting this application ?
    - Will get setup with node.js if not downloaded already. [What is node.js?](https://www.w3schools.com/nodejs/nodejs_intro.asp)
    -  Will set up a database connection to your mongoDB. [What is mongoDB](https://www.mongodb.com/what-is-mongodb)
 
